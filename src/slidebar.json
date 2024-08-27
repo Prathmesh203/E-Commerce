@@ -1,0 +1,22 @@
+[
+     {
+        "name":"iphone",
+        "image":"https://www.mactrast.com/wp-content/uploads/2018/12/iPhone_XR_-_Apple-800x457.jpg"  
+     },
+     {
+          "name":"fridge",
+          "image":"https://img.global.news.samsung.com/in/wp-content/uploads/2018/04/Digital-Inverter-Refrigerator-Newsroom.jpg"
+     },
+     {
+          "name":"carelac",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn_2QXp-MfXGxNO0AJZg8Ge0lNe0QRLvCYIw&s"
+     },
+     {
+          "name":"washingmahcine",
+          "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaJi3vO5Vgm4_UQagoRMVZmVRcZYiAKg26cA&s"
+     },
+     {
+          "name":"medicine",
+          "image":"https://www.shutterstock.com/image-vector/creative-probiotics-supplement-ad-template-600nw-2175615281.jpg"
+     }
+]
